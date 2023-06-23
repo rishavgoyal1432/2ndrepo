@@ -768,6 +768,9 @@ if ( ! sErr.equals("") ) {
 if ( stat != null ) stat.close();
 if ( conn != null ) conn.close();
 
+      if ( stat != null ) stat.close();
+if ( conn != null ) conn.close();
+
       out.write("\r\n");
     } catch (Throwable t) {
       out = _jspx_out;

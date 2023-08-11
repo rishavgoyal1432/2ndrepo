@@ -1,6 +1,3 @@
-[submodule "compgen"]
-	path = compgen
-	url = https://github.com/adobe/aem-component-generator.git
 [submodule "1st_repo"]
 	path = 1st_repo
 	url = https://github.com/rishavgoyal1432/1st_repo.git

@@ -17,7 +17,7 @@ jobs:
           project_name: Rishav_GH_Actions
           cx_tenant: dp_wp_account
           base_uri: https://eu.ast.checkmarx.net 
-          cx_client_id: 00179212
+          cx_client_id: GH Actions
           cx_client_secret: GBu2keyzPkQ8SlZLndEi0gqnkNmF6q0h
           additional_params: --debug
           branch: main

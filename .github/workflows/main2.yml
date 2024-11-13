@@ -24,7 +24,7 @@ jobs:
         with:
           base_uri: https://eu.ast.checkmarx.net
           cx_client_id: GH Actions
-          cx_client_secret: iIUn2ikiPG5oWP2oM6Wrg7GdR9vOGkAL
+          cx_client_secret: GiUgyivu77FU138vZbiZL2LfpTCbP3TI
           cx_tenant: dp_wp_account
           additional_params: --report-format sarif --output-path . --debug
 
